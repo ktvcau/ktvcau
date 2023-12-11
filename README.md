@@ -12,4 +12,3 @@
 
 - 💡 You can find me at [Telegram](https://t.me/ktvcau) 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" />
