@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me
 - 👋 Hi, I'm Cao Tien Thanh
 - 👀 I am always interested in the development of the community
 - 🌱 I am a programmer
