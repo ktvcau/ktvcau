@@ -3,10 +3,11 @@
 - 👀 I am always interested in the development of the community
 - 🌱 I am a programmer
 - 💞️ I am looking to cooperate with my team members to create new projects to serve society
-- 📫 To contact me, you can contact me via my Telegram
+- 📫 To contact me, you can contact me via my [Telegram](https://t.me/ktvcau)
 - 😄 You can call me: XIE or Mai Cuu
 
 ## 🌐Socials
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie) 
 
 # 💻Tech Stack
