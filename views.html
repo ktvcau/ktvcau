@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XIE PROFILE</title>
+</head>
+<body>
+  <h3>Welcome to XIE</h3>
+  <p>views: <span id="viewsCount">0</span></p>
+
+  <script>
+    let viewsCount = localStorage.getItem('viewsCount') || 0;
+    viewsCount = parseInt(viewsCount, 10) + 1;
+    localStorage.setItem('viewsCount', viewsCount);
+
+    document.getElementById('viewsCount').textContent = viewsCount;
+  </script>
+</body>
+</html>
