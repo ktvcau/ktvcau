@@ -1,15 +1,162 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>XIE PROFILE</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    integrity="sha384-hOq2T+N52o1uNUqL3jyO4nPTq8Uns/KllrZ0J5vihcR1Sw7R70jO5p3b6F6fwwz" crossorigin="anonymous">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+
+  <style>
+    body {
+      font-family: 'Courier New', monospace;
+      background-color: #f8f8f8;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      transition: background-color 0.5s, color 0.5s;
+    }
+
+    h3,
+    p {
+      animation: fadeInUp 1s;
+    }
+
+    h3 {
+      color: #4285f4;
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      margin-top: 10px;
+      font-size: 1.2em;
+    }
+
+    #viewsCount {
+      font-weight: bold;
+      color: #ea4335;
+      font-size: 1.5em;
+      margin-top: 5px;
+      animation: fadeInUp 1s;
+    }
+
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    #notification {
+      position: fixed;
+      bottom: 2;
+      right: 50;
+      left: 50;
+      width: 50%;
+      background-color: #1a1a1a;
+      color: #4c9baf;
+      text-align: center;
+      padding: 0px;
+      display: none;
+      border-radius: 10px;
+      border: 1px solid #4cacaf;
+    }
+
+    #viewModeMenu {
+      position: fixed;
+      top: 0;
+      right: 0;
+      padding: 10px;
+      background-color: #333;
+      color: #fff;
+      display: flex;
+      align-items: center;
+    }
+
+    #viewModeMenu label {
+      margin-right: 10px;
+    }
+
+    #viewModeToggle {
+      margin-right: 10px;
+    }
+
+    body.dark-mode {
+      background-color: #1a1a1a;
+      color: #fff;
+    }
+
+    #viewModeMenu,
+    #viewModeMenu label {
+      color: #fff;
+    }
+
+    #viewModeMenu label::before {
+      margin-right: 5px;
+    }
+
+    body.dark-mode #viewModeMenu label::before {
+      content: "\1F319";
+    }
+
+    .fa-user {
+      color: #4285f4;
+    }
+
+    .fa-sun,
+    .fa-moon {
+      color: #fff;
+    }
+  </style>
 </head>
+
 <body>
-  <h3>Welcome to XIE</h3>
-  <p>views: <span id="viewsCount">0</span></p>
+  <h3 class="animate__animated animate__fadeInUp">Welcome to XIE <i class="fas fa-user"></i></h3>
+  <p class="animate__animated animate__fadeInUp">views: <span id="viewsCount">0</span></p>
+
+  <div id="notification"></div>
+
+  <div id="viewModeMenu">
+    <label for="viewModeToggle">Dark Mode:</label>
+    <input type="checkbox" id="viewModeToggle">
+  </div>
 
   <script>
+    function showNotification(message) {
+      const notification = document.getElementById('notification');
+      notification.textContent = message;
+      notification.style.display = 'block';
+
+      setTimeout(() => {
+        notification.style.display = 'none';
+      }, 3000);
+    }
+
+    function handleViewModeChange() {
+      const darkMode = document.getElementById('viewModeToggle').checked;
+      const body = document.body;
+      body.classList.toggle('dark-mode', darkMode);
+    }
+
+    showNotification('Someone accessed the page!');
+
+    document.getElementById('viewModeToggle').addEventListener('change', handleViewModeChange);
+
     let viewsCount = localStorage.getItem('viewsCount') || 0;
     viewsCount = parseInt(viewsCount, 10) + 1;
     localStorage.setItem('viewsCount', viewsCount);
@@ -17,4 +164,5 @@
     document.getElementById('viewsCount').textContent = viewsCount;
   </script>
 </body>
+
 </html>
