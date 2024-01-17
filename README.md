@@ -23,4 +23,4 @@
 ![](https://github-trophies.vercel.app/?username=ktvcau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ktvcau&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ktvcau&label=XIE&icon=9&pretty=false)](https://visitcount.itsvg.in)
