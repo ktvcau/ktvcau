@@ -7,7 +7,9 @@
 </p>
 
 ## 📶 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=radical&hide_border=false)<br/>
 
