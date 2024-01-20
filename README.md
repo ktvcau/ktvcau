@@ -1,11 +1,8 @@
-# 💫About Me
-- 👋 Hi, I'm Cao Tien Thanh
-- 👀 I am always interested in the development of the community
-- 🌱 I am a programmer
-- 💞️ I am looking to cooperate with my team members to create new projects to serve society
-- 📫 To contact me, you can contact me via my [Telegram](https://t.me/ktvcau)
-- 😄 You can call me: XIE or Mai Cuu
+### 👋 Hi, I'm Cao Tien Thanh
+<h3 align="center">😄 You can call me: XIE or Mai Cuu</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktvcau&label=Views&color=blue&style=plastic" alt="ktvcau" /> </p>
+  
 ## 🌐Other
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie) 
@@ -21,9 +18,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ktvcau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ktvcau&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
----
-[XIE](views.html)
