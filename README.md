@@ -11,8 +11,12 @@
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=radical&hide_border=false" alt="GitHub Streak" style="flex: 1;">
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </div>
 </div>
 
 ## 🏆 GitHub Trophies
