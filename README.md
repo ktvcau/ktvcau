@@ -15,5 +15,5 @@
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=ktvcau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-HackerBlue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
-[![Facebook](https://img.shields.io/badge/Facebook-HackerBlue.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie)
