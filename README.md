@@ -7,13 +7,13 @@
 </p>
 
 ## 📶 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktvcau&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktvcau&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=blueberry&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=radical&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=ktvcau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Connect with Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie)
+[![Telegram](https://img.shields.io/badge/Telegram-HackerBlue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
+[![Facebook](https://img.shields.io/badge/Facebook-HackerBlue.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie)
