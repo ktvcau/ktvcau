@@ -2,14 +2,14 @@
 
 <h3 align="center">😄 You can call me: XIE or Mai Cuu</h3>
 
-<p align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=ktvcau&label=Views&color=blue&style=plastic" alt="ktvcau" />
-</p>
+</div>
 
-## 📶 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
+
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=ktvcau&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=radical&hide_border=false" alt="GitHub Streak" style="flex: 1;">
