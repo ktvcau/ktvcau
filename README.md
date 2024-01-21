@@ -29,25 +29,9 @@
 
 ## 🌐 Connect with Me
 
-<div align="center">
-  <a href="https://www.facebook.com/nguyrn.xie">
-    <img src="https://raw.githubusercontent.com/ktvcau/ktvcau/main/qr_xie2.png" alt="XIE Facebook" width="150" height="150">
-  </a>
-  <p><b><a href="https://www.facebook.com/nguyrn.xie">XIE</a></b></p>
-</div>
+| Facebook | Telegram |
+| :---: | :---: |
+| [![image](https://raw.githubusercontent.com/ktvcau/ktvcau/main/qr_xie2.png)](https://www.facebook.com/nguyrn.xie) <p><b><a href="https://www.facebook.com/nguyrn.xie">XIE</a></b></p> | [![image](https://raw.githubusercontent.com/ktvcau/ktvcau/main/qr_xie1.png)](https://t.me/ktvcau) <p><b><a href="https://t.me/ktvcau">XIE</a></b></p> |
 
-<div align="center">
-  <a href="https://t.me/ktvcau">
-    <img src="https://raw.githubusercontent.com/ktvcau/ktvcau/main/qr_xie1.png" alt="XIE Telegram" width="150" height="150">
-  </a>
-  <p><b><a href="https://t.me/ktvcau">XIE</a></b></p>
-</div>
-
-<div align="center">
-  <a href="https://t.me/ktvcau">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://facebook.com/nguyrn.xie">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-  </a>
-</div>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie)
