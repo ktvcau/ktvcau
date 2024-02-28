@@ -10,23 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktvcau&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
-## 📶 Github Stats
-
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ktvcau&theme=radical&hide_border=false" alt="GitHub Stats" />
-        <br/>
-        <br/>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktvcau&theme=radical&hide_border=false" alt="GitHub Streak" />
-    </div>
-</div>
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-trophies.vercel.app/?username=ktvcau&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🌐 Connect with Me
 
 | Facebook | Telegram |
