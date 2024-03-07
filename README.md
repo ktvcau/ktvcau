@@ -12,9 +12,5 @@
 
 ## 🌐 Connect with Me
 
-| Facebook | Telegram |
-| :---: | :---: |
-| [![image](https://raw.githubusercontent.com/ktvcau/ktvcau/main/qr_xie2.png)](https://www.facebook.com/nguyrn.xie) <p><b><a href="https://www.facebook.com/nguyrn.xie">XIE</a></b></p> | [![image](https://raw.githubusercontent.com/ktvcau/ktvcau/main/qr_xie1.png)](https://t.me/ktvcau) <p><b><a href="https://t.me/ktvcau">XIE</a></b></p> |
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ktvcau)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/nguyrn.xie)
