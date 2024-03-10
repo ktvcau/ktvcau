@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktvcau&label=Views&color=blue&style=plastic" alt="ktvcau" /> </p>
 
-<h3 align="center">😄 You can call me: XIE or Mai Cuu</h3>
+<h3 align="center">😄 You can call me: XIE</h3>
 
 ## 📊 Top Languages
 
